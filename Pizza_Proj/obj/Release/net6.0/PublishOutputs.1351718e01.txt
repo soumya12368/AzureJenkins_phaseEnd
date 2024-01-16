@@ -1,0 +1,9 @@
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\Pizza_Proj.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\Pizza_Proj.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\Pizza_Proj.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\Pizza_Proj.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\Pizza_Proj.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\PizzaOrderingLibrary.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\PhaseEnd\Pizza Store\Pizza Store\Pizza_Proj\obj\Release\net6.0\PubTmp\Out\PizzaOrderingLibrary.pdb

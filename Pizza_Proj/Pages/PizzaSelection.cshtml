@@ -1,0 +1,19 @@
+﻿@page
+@model Pizza_Proj.Pages.PizzaSelectionModel
+@{
+}
+@{
+    ViewData["Title"] = "Pizza Selection";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post" asp-page-handler="AddToCart">
+    <label for="pizzaType">Select Pizza Type:</label>
+    <select asp-for="SelectedPizzaType" asp-items="Model.PizzaTypes"></select>
+
+    <label for="quantity">Quantity:</label>
+    <input type="number" asp-for="Quantity" />
+
+    <button type="submit">Add to Cart</button>
+</form>
